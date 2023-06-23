@@ -71,26 +71,6 @@
 <br>
 <br>
 <br>
-
------
-
-<br>
-<br>
-
-## <b> Let's Connect..!</b><img src="https://github.com/ElitePusher/ElitePusher/blob/main/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="mailto:elitepusher@proton.me" target="_blank">
-</a>
-</li>
-	
-</ul>
-</div>
-
 <br>
 <img src="https://github.com/ElitePusher/ElitePusher/blob/main/divider.gif">
 <br>
