@@ -9,7 +9,6 @@
     <a href="mailto:elitepusher@proton.me">
         <img src="https://github.com/microsoft/fluentui-emoji/blob/main/assets/E-mail/3D/e-mail_3d.png?raw=true" width="28px" alt="e-mail">
     </a>
-    <p>Mail</p>
 </p>
 
 ### Languages
