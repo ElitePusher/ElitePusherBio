@@ -15,7 +15,7 @@
 
 <br>
 
-- A Self-taught Website/Java
+- A Self-taught Website/Java Developer
 - Currently learning TailwindCSS
 - I’m currently open for collaboration on any interesting project 
 
