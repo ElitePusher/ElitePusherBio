@@ -1,32 +1,111 @@
-<h1 align="center">Welcome! <img src="https://github.com/microsoft/fluentui-emoji/blob/main/assets/Waving%20hand/Default/3D/waving_hand_3d_default.png?raw=true" width="28px" alt="👋"></h1>
+
+<h1 align="center"><b>Hi , I'm ElitePusher </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-    <br><br>
-    <i>
-        I'm ElitePusher.<br>
-        Website/Java Developer.<br>
-    </i><br>
-    <a href="mailto:elitepusher@proton.me">
-        <img src="https://github.com/microsoft/fluentui-emoji/blob/main/assets/E-mail/3D/e-mail_3d.png?raw=true" width="28px" alt="e-mail">
-    </a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=ElitePusher&hearts;++;+Java Developer+Website Developer"></a>
 </p>
 
-### Languages
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/elitepusher)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/elitepusher)
 
-### Frameworks
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/elitepusher)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/elitepusher)
+<br>
 
-### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/elitepusher)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/elitepusher)
 
-<details>
+
+	
+## <picture><img src = "https://github.com/ElitePusher/ElitePusher/blob/main/about_me.gif" width = 50px></picture> **About me**
+
+<br>
+
+- A Self-taught Website/Java
+- Currently learning TailwindCSS
+- I’m currently open for collaboration on any interesting project 
+
+<br><br>
+
+<img src="https://github.com/ElitePusher/ElitePusher/blob/main/divider.gif"><br><br>
+
+## <img src="https://github.com/ElitePusher/ElitePusher/blob/main/skills.gif" width ="25"><b> Skills</b>
+<br>
+
 <p align="center">
-  <a href="https://github.com/elitepusher">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elitepusher&theme=transparent" />
-  </a>
-</details>
 
+- **Languages**:
+    
+    ![Java](https://github.com/elitepusher)
+
+<br>   
+    
+- **Front-End Development**:
+
+   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+    
+<br>
+
+- **Softwares and Tools**:
+
+    ![Windows](https://github.com)
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<br>   
+
+</p>
+
+<br>
+<br>
+
+-----
+
+<br>
+
+
+## <img src="https://github.com/ElitePusher/ElitePusher/blob/main/stats.gif" width="35"><b> GitHub Stats </b>
+<br>
+
+<div align="center">
+
+<a href="https://github.com/elitepusher/">
+  <img src="https://github-readme-stats.vercel.app/api?username=elitepusher&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elitepusher&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="elitepusher"/>
+
+</a>
+</div>
+
+<br>
+<br>
+<br>
+
+-----
+
+<br>
+<br>
+
+## <b> Let's Connect..!</b><img src="https://github.com/ElitePusher/ElitePusher/blob/main/handshake.gif" width ="80">
+<br>
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="mailto:elitepusher@proton.me" target="_blank">
+</a>
+</li>
+	
+</ul>
+</div>
+
+<br>
+<img src="https://github.com/ElitePusher/ElitePusher/blob/main/divider.gif">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+<br>
