@@ -15,9 +15,9 @@
 
 <br>
 
-- A Self-taught Website/Java Developer
-- Currently learning TailwindCSS and REACT
-- I’m open for collaboration on any interesting project 
+- A Self-taught Front-End/Java Developer.
+- Currently learning TailwindCSS and React.
+- I’m open for collaboration on any interesting project.
 
 <br><br>
 
