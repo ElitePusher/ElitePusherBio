@@ -8,7 +8,6 @@
 <p align="center">
 <a href="https://www.github.com/elitepusher" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/elitepusher?logo=github&style=for-the-badge&color=14b8a6&labelColor=171717" /></a>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=elitepusher.elitepusher&"
 </p>
 
 <br>
