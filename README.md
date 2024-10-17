@@ -65,7 +65,7 @@ src="https://img.shields.io/github/followers/elitepusher?logo=github&style=for-t
 
 <br>
 
-- **Front-End Development**:
+- **Backend Development**:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
