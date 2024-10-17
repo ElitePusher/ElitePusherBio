@@ -85,7 +85,7 @@ src="https://img.shields.io/github/followers/elitepusher?logo=github&style=for-t
 
 <br> 
 
-- **Softwares and Tools**:
+- **Software and Tools**:
   
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
