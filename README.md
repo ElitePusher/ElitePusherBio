@@ -5,6 +5,11 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I'm+ElitePusher;Front-End+Developer;Backend+Developer;Java+Developer" alt="Typing SVG" /></a>
 </p>
 
+<p align="center">
+<a href="https://www.github.com/elitepusher" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/elitepusher?logo=github&style=for-the-badge&color=14b8a6&labelColor=171717" /></a>
+</p>
+
 <br>
 	
 ## <picture><img src = "https://github.com/ElitePusher/ElitePusher/blob/main/about_me.gif" width = 50px></picture> **About me**
